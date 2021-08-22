@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Jinzhong Niu"
 title_separator          : "-"
-name                     : &name "Dr. Jinzhong Niu"
+name                     : &name "Jinzhong Niu"
 description              : &description "Professor in Computer Science at CUNY"
 url                      : "https://jzniu.github.io/npages/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jinzhong Niu"
+  name             : "Dr. Jinzhong Niu"
   avatar           : "profile.png"
   bio              : "Faculty in CS"
   location         : "New York, NY"
