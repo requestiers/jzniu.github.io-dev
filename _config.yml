@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinzhong Niu"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Jinzhong Niu"
 description              : &description "Professor in Computer Science at CUNY"
