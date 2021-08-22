@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Homepage of Dr. Jinzhong Niu"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
