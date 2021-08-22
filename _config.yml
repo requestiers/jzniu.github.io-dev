@@ -10,12 +10,12 @@ locale                   : "en-US"
 title                    : "Dr. Jinzhong Niu"
 title_separator          : "-"
 name                     : &name "Dr. Jinzhong Niu"
-description              : &description "Faculty at the City University of New York"
-url                      : "https://npages.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Professor in Computer Science at CUNY"
+url                      : "https://jzniu.github.io/npages/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jzniu/npages"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Jinzhong Niu"
+  name             : "Jinzhong Niu"
   avatar           : "profile.png"
-  bio              : "Computer Scientist"
+  bio              : "Faculty in CS"
   location         : "New York, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=jinzhong+niu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jzniu"
+  github           : #"jzniu"
   google_plus      :
   keybase          :
   instagram        :
